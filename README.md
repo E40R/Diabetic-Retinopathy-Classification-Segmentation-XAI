@@ -6,7 +6,7 @@ This project builds an end-to-end pipeline for automated Diabetic Retinopathy (D
 
 ## Pipeline Overview
 
-**1. DR Grading (Classification)
+**1. DR Grading (Classification)**
 EfficientNet-B0 trained on the [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection) dataset to classify retinal images into 5 DR severity levels: No DR, Mild, Moderate, Severe, and Proliferative DR and probability for each case. Includes an image quality check (blur/noise detection) before inference.
 <br>
 <br>
