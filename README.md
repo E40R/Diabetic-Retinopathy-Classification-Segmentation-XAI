@@ -1,5 +1,4 @@
 # Diabetic Retinopathy — AI Diagnostic Pipeline
-**Capstone Group 12**
 
 This project builds an end-to-end pipeline for automated Diabetic Retinopathy (DR) analysis using deep learning on retinal fundus images.
 
